@@ -4,8 +4,10 @@ At your Service
 This is a Project About All Things that are 
 involved In Social Media.
 Like Facebook And WhatsApp. 
-its a idea to create Apk in Android platform and IOS 
-AND windows platform to Develop It. 
+A App in Android platform and IOS 
+AND windows platform.
+
+its a idea to Develop It. 
 
 here you can Upload your media files From your phone directory
 and Get Recation From Your Viewers (👍,♥️,😡,😅,🤔,😂)
